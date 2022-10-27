@@ -1,0 +1,36 @@
+*{
+  box-sizing:border-box;
+}
+.container{
+  width: 60%;
+  height: 40px;
+  background-color: #b3ffff;
+  margin: auto;
+  border-block-color:#000000 ;
+}
+input{
+  width: 100%;
+  padding: 10px;
+  background-color:#ffe6ff ;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: none;
+}
+input:focus{
+  background-color: #ccffee ;
+}
+a{
+  color:#ffffe6;
+}
+.registerbtn{
+  width: 100%;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 51px;
+  background-color: #ffffe6 ;
+  color: whitesmoke;
+}
+.register:hover{
+  opacity: 1;
+  
+}
